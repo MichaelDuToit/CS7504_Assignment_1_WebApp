@@ -36,3 +36,41 @@ Z:\Local\alen.jose\WebApp - CS7504\CS7504_Assignment_1_WebApp\obj\Debug\netcorea
 Z:\Local\alen.jose\WebApp - CS7504\CS7504_Assignment_1_WebApp\obj\Debug\netcoreapp3.1\CS7504_Assignment_1_Web_App.pdb
 Z:\Local\alen.jose\WebApp - CS7504\CS7504_Assignment_1_WebApp\obj\Debug\netcoreapp3.1\CS7504_Assignment_1_Web_App.genruntimeconfig.cache
 Z:\Local\alen.jose\WebApp - CS7504\CS7504_Assignment_1_WebApp\obj\Debug\netcoreapp3.1\CS7504_Assignment_1_Web_App.csproj.CopyComplete
+C:\Users\micha\Documents\Dev\BIT\CS7504_Assignment_1_Michael_du_Toit\Source Code\CS7504_Assignment_1_Web_App\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\micha\Documents\Dev\BIT\CS7504_Assignment_1_Michael_du_Toit\Source Code\CS7504_Assignment_1_Web_App\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\micha\Documents\Dev\BIT\CS7504_Assignment_1_Michael_du_Toit\Source Code\CS7504_Assignment_1_Web_App\bin\Debug\netcoreapp3.1\CS7504_Assignment_1_Web_App.exe
+C:\Users\micha\Documents\Dev\BIT\CS7504_Assignment_1_Michael_du_Toit\Source Code\CS7504_Assignment_1_Web_App\bin\Debug\netcoreapp3.1\CS7504_Assignment_1_Web_App.deps.json
+C:\Users\micha\Documents\Dev\BIT\CS7504_Assignment_1_Michael_du_Toit\Source Code\CS7504_Assignment_1_Web_App\bin\Debug\netcoreapp3.1\CS7504_Assignment_1_Web_App.runtimeconfig.json
+C:\Users\micha\Documents\Dev\BIT\CS7504_Assignment_1_Michael_du_Toit\Source Code\CS7504_Assignment_1_Web_App\bin\Debug\netcoreapp3.1\CS7504_Assignment_1_Web_App.runtimeconfig.dev.json
+C:\Users\micha\Documents\Dev\BIT\CS7504_Assignment_1_Michael_du_Toit\Source Code\CS7504_Assignment_1_Web_App\bin\Debug\netcoreapp3.1\CS7504_Assignment_1_Web_App.dll
+C:\Users\micha\Documents\Dev\BIT\CS7504_Assignment_1_Michael_du_Toit\Source Code\CS7504_Assignment_1_Web_App\bin\Debug\netcoreapp3.1\CS7504_Assignment_1_Web_App.pdb
+C:\Users\micha\Documents\Dev\BIT\CS7504_Assignment_1_Michael_du_Toit\Source Code\CS7504_Assignment_1_Web_App\bin\Debug\netcoreapp3.1\CS7504_Assignment_1_Web_App.Views.dll
+C:\Users\micha\Documents\Dev\BIT\CS7504_Assignment_1_Michael_du_Toit\Source Code\CS7504_Assignment_1_Web_App\bin\Debug\netcoreapp3.1\CS7504_Assignment_1_Web_App.Views.pdb
+C:\Users\micha\Documents\Dev\BIT\CS7504_Assignment_1_Michael_du_Toit\Source Code\CS7504_Assignment_1_Web_App\obj\Debug\netcoreapp3.1\CS7504_Assignment_1_Web_App.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\Dev\BIT\CS7504_Assignment_1_Michael_du_Toit\Source Code\CS7504_Assignment_1_Web_App\obj\Debug\netcoreapp3.1\CS7504_Assignment_1_Web_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\Documents\Dev\BIT\CS7504_Assignment_1_Michael_du_Toit\Source Code\CS7504_Assignment_1_Web_App\obj\Debug\netcoreapp3.1\CS7504_Assignment_1_Web_App.AssemblyInfoInputs.cache
+C:\Users\micha\Documents\Dev\BIT\CS7504_Assignment_1_Michael_du_Toit\Source Code\CS7504_Assignment_1_Web_App\obj\Debug\netcoreapp3.1\CS7504_Assignment_1_Web_App.AssemblyInfo.cs
+C:\Users\micha\Documents\Dev\BIT\CS7504_Assignment_1_Michael_du_Toit\Source Code\CS7504_Assignment_1_Web_App\obj\Debug\netcoreapp3.1\CS7504_Assignment_1_Web_App.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\Dev\BIT\CS7504_Assignment_1_Michael_du_Toit\Source Code\CS7504_Assignment_1_Web_App\obj\Debug\netcoreapp3.1\CS7504_Assignment_1_Web_App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\micha\Documents\Dev\BIT\CS7504_Assignment_1_Michael_du_Toit\Source Code\CS7504_Assignment_1_Web_App\obj\Debug\netcoreapp3.1\CS7504_Assignment_1_Web_App.RazorAssemblyInfo.cache
+C:\Users\micha\Documents\Dev\BIT\CS7504_Assignment_1_Michael_du_Toit\Source Code\CS7504_Assignment_1_Web_App\obj\Debug\netcoreapp3.1\CS7504_Assignment_1_Web_App.RazorAssemblyInfo.cs
+C:\Users\micha\Documents\Dev\BIT\CS7504_Assignment_1_Michael_du_Toit\Source Code\CS7504_Assignment_1_Web_App\obj\Debug\netcoreapp3.1\staticwebassets\CS7504_Assignment_1_Web_App.StaticWebAssets.Manifest.cache
+C:\Users\micha\Documents\Dev\BIT\CS7504_Assignment_1_Michael_du_Toit\Source Code\CS7504_Assignment_1_Web_App\obj\Debug\netcoreapp3.1\staticwebassets\CS7504_Assignment_1_Web_App.StaticWebAssets.xml
+C:\Users\micha\Documents\Dev\BIT\CS7504_Assignment_1_Michael_du_Toit\Source Code\CS7504_Assignment_1_Web_App\obj\Debug\netcoreapp3.1\scopedcss\bundle\CS7504_Assignment_1_Web_App.styles.css
+C:\Users\micha\Documents\Dev\BIT\CS7504_Assignment_1_Michael_du_Toit\Source Code\CS7504_Assignment_1_Web_App\obj\Debug\netcoreapp3.1\CS7504_Assignment_1_Web_App.TagHelpers.input.cache
+C:\Users\micha\Documents\Dev\BIT\CS7504_Assignment_1_Michael_du_Toit\Source Code\CS7504_Assignment_1_Web_App\obj\Debug\netcoreapp3.1\CS7504_Assignment_1_Web_App.TagHelpers.output.cache
+C:\Users\micha\Documents\Dev\BIT\CS7504_Assignment_1_Michael_du_Toit\Source Code\CS7504_Assignment_1_Web_App\obj\Debug\netcoreapp3.1\CS7504_Assignment_1_Web_App.RazorCoreGenerate.cache
+C:\Users\micha\Documents\Dev\BIT\CS7504_Assignment_1_Michael_du_Toit\Source Code\CS7504_Assignment_1_Web_App\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\micha\Documents\Dev\BIT\CS7504_Assignment_1_Michael_du_Toit\Source Code\CS7504_Assignment_1_Web_App\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\micha\Documents\Dev\BIT\CS7504_Assignment_1_Michael_du_Toit\Source Code\CS7504_Assignment_1_Web_App\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\micha\Documents\Dev\BIT\CS7504_Assignment_1_Michael_du_Toit\Source Code\CS7504_Assignment_1_Web_App\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\micha\Documents\Dev\BIT\CS7504_Assignment_1_Michael_du_Toit\Source Code\CS7504_Assignment_1_Web_App\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\micha\Documents\Dev\BIT\CS7504_Assignment_1_Michael_du_Toit\Source Code\CS7504_Assignment_1_Web_App\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\micha\Documents\Dev\BIT\CS7504_Assignment_1_Michael_du_Toit\Source Code\CS7504_Assignment_1_Web_App\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\micha\Documents\Dev\BIT\CS7504_Assignment_1_Michael_du_Toit\Source Code\CS7504_Assignment_1_Web_App\obj\Debug\netcoreapp3.1\CS7504_Assignment_1_Web_App.RazorTargetAssemblyInfo.cache
+C:\Users\micha\Documents\Dev\BIT\CS7504_Assignment_1_Michael_du_Toit\Source Code\CS7504_Assignment_1_Web_App\obj\Debug\netcoreapp3.1\CS7504_Assignment_1_Web_App.RazorTargetAssemblyInfo.cs
+C:\Users\micha\Documents\Dev\BIT\CS7504_Assignment_1_Michael_du_Toit\Source Code\CS7504_Assignment_1_Web_App\obj\Debug\netcoreapp3.1\CS7504_Assignment_1_Web_App.Views.pdb
+C:\Users\micha\Documents\Dev\BIT\CS7504_Assignment_1_Michael_du_Toit\Source Code\CS7504_Assignment_1_Web_App\obj\Debug\netcoreapp3.1\CS7504_Assignment_1_Web_App.dll
+C:\Users\micha\Documents\Dev\BIT\CS7504_Assignment_1_Michael_du_Toit\Source Code\CS7504_Assignment_1_Web_App\obj\Debug\netcoreapp3.1\CS7504_Assignment_1_Web_App.pdb
+C:\Users\micha\Documents\Dev\BIT\CS7504_Assignment_1_Michael_du_Toit\Source Code\CS7504_Assignment_1_Web_App\obj\Debug\netcoreapp3.1\CS7504_Assignment_1_Web_App.genruntimeconfig.cache
+C:\Users\micha\Documents\Dev\BIT\CS7504_Assignment_1_Michael_du_Toit\Source Code\CS7504_Assignment_1_Web_App\obj\Debug\netcoreapp3.1\CS7504_Assignment_1_Web_App.csproj.CopyComplete
