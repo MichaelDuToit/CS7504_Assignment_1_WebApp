@@ -82,3 +82,7 @@ body {
 img {
     max-width: 100%;
 }
+
+.navbar-color {
+    background-color: #6AFB92 !important;
+}

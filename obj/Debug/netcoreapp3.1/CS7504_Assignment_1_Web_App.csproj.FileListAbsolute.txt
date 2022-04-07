@@ -62,7 +62,6 @@ C:\Users\micha\Documents\Dev\BIT\CS7504_Assignment_1_Michael_du_Toit\Source Code
 C:\Users\micha\Documents\Dev\BIT\CS7504_Assignment_1_Michael_du_Toit\Source Code\CS7504_Assignment_1_Web_App\obj\Debug\netcoreapp3.1\CS7504_Assignment_1_Web_App.RazorCoreGenerate.cache
 C:\Users\micha\Documents\Dev\BIT\CS7504_Assignment_1_Michael_du_Toit\Source Code\CS7504_Assignment_1_Web_App\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
 C:\Users\micha\Documents\Dev\BIT\CS7504_Assignment_1_Michael_du_Toit\Source Code\CS7504_Assignment_1_Web_App\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
-C:\Users\micha\Documents\Dev\BIT\CS7504_Assignment_1_Michael_du_Toit\Source Code\CS7504_Assignment_1_Web_App\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
 C:\Users\micha\Documents\Dev\BIT\CS7504_Assignment_1_Michael_du_Toit\Source Code\CS7504_Assignment_1_Web_App\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
 C:\Users\micha\Documents\Dev\BIT\CS7504_Assignment_1_Michael_du_Toit\Source Code\CS7504_Assignment_1_Web_App\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\micha\Documents\Dev\BIT\CS7504_Assignment_1_Michael_du_Toit\Source Code\CS7504_Assignment_1_Web_App\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
@@ -74,3 +73,4 @@ C:\Users\micha\Documents\Dev\BIT\CS7504_Assignment_1_Michael_du_Toit\Source Code
 C:\Users\micha\Documents\Dev\BIT\CS7504_Assignment_1_Michael_du_Toit\Source Code\CS7504_Assignment_1_Web_App\obj\Debug\netcoreapp3.1\CS7504_Assignment_1_Web_App.pdb
 C:\Users\micha\Documents\Dev\BIT\CS7504_Assignment_1_Michael_du_Toit\Source Code\CS7504_Assignment_1_Web_App\obj\Debug\netcoreapp3.1\CS7504_Assignment_1_Web_App.genruntimeconfig.cache
 C:\Users\micha\Documents\Dev\BIT\CS7504_Assignment_1_Michael_du_Toit\Source Code\CS7504_Assignment_1_Web_App\obj\Debug\netcoreapp3.1\CS7504_Assignment_1_Web_App.csproj.CopyComplete
+C:\Users\micha\Documents\Dev\BIT\CS7504_Assignment_1_Michael_du_Toit\Source Code\CS7504_Assignment_1_Web_App\obj\Debug\netcoreapp3.1\Razor\Pages\About.cshtml.g.cs
