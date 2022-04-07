@@ -79,6 +79,8 @@ body {
     max-width: 100%;
     border: 10px solid white;
     box-shadow: 5px 5px 5px grey;
+    margin: 5px;
+    padding: 5px;
 }
 
 img {
